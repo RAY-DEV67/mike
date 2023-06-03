@@ -60,55 +60,55 @@ function App() {
   <p className='bg-[#AfC4DF] w-[90vw] text-center border-y py-[0.5rem] font-semibold'>Background Information</p>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Occupation</p>
-    <p className='w-[60vw]'>Import and Export of Jewellery and Diamond</p>
+    <p className='w-[50vw]'>Import and Export of Jewellery and Diamond</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Job Title</p>
-    <p className='w-[60vw]'>General Manager </p>
+    <p className='w-[50vw]'>General Manager </p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Area served</p>
-    <p className='w-[60vw]'>Worldwide</p>
+    <p className='w-[50vw]'>Worldwide</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Product</p>
-    <p className='w-[60vw]'>Diamond and Jewellery </p>
+    <p className='w-[50vw]'>Diamond and Jewellery </p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Marital Status</p>
-    <p className='w-[60vw]'>Single</p>
+    <p className='w-[50vw]'>Single</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Family</p>
-    <p className='w-[60vw]'>Not in good terms with family/relatives</p>
+    <p className='w-[50vw]'>Not in good terms with family/relatives</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Children</p>
-    <p className='w-[60vw]'>Becky Ethan </p>
+    <p className='w-[50vw]'>Becky Ethan </p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Friends</p>
-    <p className='w-[60vw]'>I have been betrayed by friends in the past who tried to poison me with deadly substances</p>
+    <p className='w-[50vw]'>I have been betrayed by friends in the past who tried to poison me with deadly substances</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Siblings</p>
-    <p className='w-[60vw]'>I am the only child of my parents.</p>
+    <p className='w-[50vw]'>I am the only child of my parents.</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Parents</p>
-    <p className='w-[60vw]'>Raymond Ethan, Robin Ethan.</p>
+    <p className='w-[50vw]'>Raymond Ethan, Robin Ethan.</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Date of birth</p>
-    <p className='w-[60vw]'>December 14th, 1966 (56 years)</p>
+    <p className='w-[50vw]'>December 14th, 1966 (56 years)</p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Spouse</p>
-    <p className='w-[60vw]'>Late. Wendy Ethan ( 40 years) </p>
+    <p className='w-[50vw]'>Late. Wendy Ethan ( 40 years) </p>
   </div>
   <div className='w-[90vw] flex justify-between border-b py-[1rem] px-[0.5rem]'>
     <p className='font-bold'>Hobbies</p>
-    <p className='w-[60vw]'>He loves swimming, dancing, biking, cooking, listening to music, walking, travelling. </p>
+    <p className='w-[50vw]'>He loves swimming, dancing, biking, cooking, listening to music, walking, travelling. </p>
   </div>
 </div>
 </div>
